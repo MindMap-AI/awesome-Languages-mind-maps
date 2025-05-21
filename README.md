@@ -1,4 +1,4 @@
-# Awesome Languages Mind Maps [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+# [Awesome Languages Mind Maps](https://mindmapai.app/mind-maps/languages) [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Enhance language learning and cultural understanding with project management and mind maps AI to structure study plans and track progress effectively. Mind maps AI visualizes vocabulary, grammar, and goals, making language mastery more organized, engaging, and efficient.
 
